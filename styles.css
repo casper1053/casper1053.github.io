@@ -5,6 +5,6 @@ body{
 }
 #login-screen {
     width: 50%; /* or any desired width */
-    margin-left: 50vw;
+    margin-left: 50%;
     margin-right: auto;
 }
