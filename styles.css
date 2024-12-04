@@ -1,1 +1,5 @@
-
+#login-screen {
+    width: 50%; /* or any desired width */
+    margin-left: auto;
+    margin-right: auto;
+}
