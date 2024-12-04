@@ -8,3 +8,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+#login-screen *{
+    width:50%;
+    margin:0 auto;
+}
