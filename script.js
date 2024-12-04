@@ -1,3 +1,4 @@
+var css_ver = 0;
 var login_screen = document.getElementById("login-screen");
 var content_screen = document.getElementById("content");
 var password_input = document.getElementById("submit button");
