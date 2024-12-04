@@ -1,3 +1,8 @@
+body{
+    background-color:black;
+    position:absolute;
+    width:100vw;
+}
 #login-screen {
     width: 50%; /* or any desired width */
     margin-left: auto;
