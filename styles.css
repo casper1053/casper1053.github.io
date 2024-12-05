@@ -12,12 +12,12 @@ body{
     width:50%;
     margin:0 auto;
 }
-#login-screen button{
+#login-screen-button{
     background-color:#000000;
     color:white;
     transition:0.125s;
     border:solid 1px white;
 }
-#login-screen button:hover{
+#login-screen-button:hover{
     background-color:darkgrey;
 }
