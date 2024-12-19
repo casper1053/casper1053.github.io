@@ -1,0 +1,21 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyB4uGtArLtbM8_F_muXu8JS8I2QkirFbHA",
+  authDomain: "test-94e4a.firebaseapp.com",
+  projectId: "test-94e4a",
+  storageBucket: "test-94e4a.firebasestorage.app",
+  messagingSenderId: "498541823517",
+  appId: "1:498541823517:web:9bddb2a5065fe1bf9268f4",
+  measurementId: "G-2ZW8H7FTTR"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
